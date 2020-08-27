@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis for Kick starter project for Loiuse
-## OverAll Findings
+Analysis for Kick starter project for Loiuse
+## Findings
 1. Out of 9 categories of kickstarte campaingns, Theater had the highest number of success full campaings in US.
 ![% Category Outcome Chart].(path/to/% Category Outcome Chart.png)
 2. With In theater, plays had the higest number of successful kickstarter campaigns in US, epsicall those that started the campaign in May and June and with an average goal of$2000.
